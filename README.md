@@ -11,3 +11,4 @@ The final outcome of this project will showvase visual insights to answer the be
   * what income range were the most borrowers categorized.
   * Is there any co relation between Loan Amount vs. Intererst Rate
   * Relation between income range and Principal Borrowed.
+  * Whats the Interest rate over the years.
