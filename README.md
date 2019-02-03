@@ -4,6 +4,10 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 The final outcome of this project will showvase visual insights to answer the below questions.
 
-  What factors affect a loan’s outcome status?
-  What affects the borrower’s APR or interest rate?
-  Are there differences between loans depending on how large the original loan amount was?
+  * How has the BorrowerRate pattern been over years.
+  * What Category were the Loan borrowers listed.
+  * What were the  Prosper Rating of the borrowers.
+  * How many home owners were borrowers when compared to non Home owners.
+  * what income range were the most borrowers categorized.
+  * Is there any co relation between Loan Amount vs. Intererst Rate
+  * Relation between income range and Principal Borrowed.
