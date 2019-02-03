@@ -12,3 +12,4 @@ The final outcome of this project will showvase visual insights to answer the be
   * Is there any co relation between Loan Amount vs. Intererst Rate
   * Relation between income range and Principal Borrowed.
   * Whats the Interest rate over the years.
+  * Whats the Intrest rate over the years for Home owners and non home Owners.
